@@ -1,3 +1,3 @@
 # youtube
-<img src="https://eclecticmoose.com/img/dirty-teen-nude-selfies-4.jpg" alt="Simply Easy Learning" width="300"
-         height="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/240px-Google_2015_logo.svg.png" alt="Simply Easy Learning" width="200"
+         height="80">
