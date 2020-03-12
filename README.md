@@ -5,6 +5,3 @@
 
 <img src="https://raw.githubusercontent.com/iwebsite128/test1/master/sushe.png" alt="Simply Easy Learning" width="200"
                   height="80">
-
-<img src="https://raw.githubusercontent.com/iwebsite128/test1/master/IMG_1338.JPG" alt="Simply Easy Learning" width="200"
-                           height="80">
