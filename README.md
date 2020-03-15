@@ -5,4 +5,4 @@
 
 <img src="apple.png" alt="apple label">
 
-<img src="win8.jpg" alt="win8" height=200 width=80>
+<img src="win8.jpg" alt="win8">
