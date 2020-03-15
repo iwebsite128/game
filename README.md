@@ -7,5 +7,5 @@
 
 <img src="win8.jpg" alt="win8">
 
-<video width="320" height="240" controls>
+<video width="320" height="240" autoplay>
   <source src="video.mov" type="video/mov">
