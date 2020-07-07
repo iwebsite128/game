@@ -3,11 +3,6 @@
 <body>
 
 <script>
-alert("您好，欢迎光临")
-</script>
-
-
-<script>
 var title
 title="澳洲华人资讯网";
 document.write(title)
