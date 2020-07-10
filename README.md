@@ -1,25 +1,30 @@
+
 <html>
 
-<body>
+<head>
+
+<script src="/jquery/jquery-1.11.1.min.js">
+</script>
 
 <script>
-var title
-title="澳洲华人资讯网";
-document.write(title)
-alert(title)
+$(document).ready(function(){
+$("button").click(function(){
+$(".mr-woolworths").fadeOut("fast");
+  });
+});
+
 </script>
+
+</head>
 
 <div id="mr-content">
 <div class="mr-title">欢迎来到澳洲华人资讯网
 </div>
 
+<button>点击这里</button>
+
 <br>
 
-<img src="flinders.jpg" height="200" width="200" align="middle">
-<img src="vicmarket.jpg" height="200" width="200" align="middle">
-<img src="flinders3.jpg" height="200" width="200" align="middle">
-<img src="flinders4.jpg" height="200" width="200" align="middle">
-<img src="flinders5.jpg" height="200" width="200" align="middle">
 
 <div class="mr-weather"> 维多利亚省lockdown特别报道
 <br>
@@ -42,7 +47,7 @@ alert(title)
 
 <div class="mr-iga">iga超市官方网网
 <br>
-<a href="https://www.iga.com.au/catalogue/#view=catalogue2&saleId=33656&areaName=IGA%20VIC%20Supa&page=1">点击这里打开链接</a>
+<a href="https://www.iga.com.au/catalogue/#view=catalogue2&saleId=33656&areaN=IGA%20VIC%20Supa&page=1">点击这里打开链接</a>
 </div>
 
 <div class="mr-target">target官网
