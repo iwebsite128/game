@@ -25,6 +25,7 @@ $(".mr-woolworths").fadeOut("fast");
 
 <br>
 
+<a href="https://rmit.instructure.com/">RMIT网站</a>
 
 <div class="mr-weather"> 维多利亚省lockdown特别报道
 <br>
